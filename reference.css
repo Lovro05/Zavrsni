@@ -52,15 +52,10 @@
 
   
   
-  /* Footer */
-  
-  .footer {
-    display: flex;
-    }
-  
-  .footer-center { 
+/* Footer */
+
+.footer-center { 
   text-align: center;
-  margin-left: 272px;
   color: #05041c;
   }
   
@@ -70,15 +65,7 @@
     font-size: 22px;
   }
   
-  .maps-footer{
-    margin-left: 220px;
-  }
-  
-  .logo-footer{
-    margin-left: 100px;
-  }
-  
-  
+    /* Header */
   .inpowerservicelogo{
     float:left;
   }

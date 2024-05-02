@@ -11,7 +11,7 @@
             "name": "Launch Chrome",
             "request": "launch",
             "type": "chrome",
-            "url": "file:///C:/Users/Igor%20%C5%A0evo/Desktop/Html/Zavr%C5%A1ni%20rad/Zavrsni/završni.html",
+            "url": "${workspaceFolder}/završni.html",
             "webRoot": "${workspaceFolder}"
         },
         {

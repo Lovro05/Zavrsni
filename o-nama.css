@@ -37,31 +37,19 @@
 
 /* Footer */
 
-.footer {
-  display: flex;
+.footer-center { 
+  text-align: center;
+  color: #05041c;
+  }
+  
+  .footer_ime_tvrtke{
+    background-color: rgba(5, 55, 17, 0.2);
+    color: #05041c;
+    font-size: 22px;
   }
 
-.footer-center { 
-text-align: center;
-margin-left: 272px;
-color: #05041c;
-}
 
-.footer_ime_tvrtke{
-  background-color: rgba(5, 55, 17, 0.2);
-  color: #05041c;
-  font-size: 22px;
-}
-
-.maps-footer{
-  margin-left: 220px;
-}
-
-.logo-footer{
-  margin-left: 100px;
-}
-
-
+  /* Header */
 .inpowerservicelogo{
   float:left;
 }

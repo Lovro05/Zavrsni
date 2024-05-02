@@ -3,6 +3,7 @@ body {
   color: #333; /* Boja teksta za ostatak stranice */
 }
 
+  /* Header */
 .inpowerservicelogo{
     float:left;
 }
@@ -89,13 +90,8 @@ body {
 
 /* Footer */
 
-.footer {
-  display: flex;
-  }
-
 .footer-center { 
 text-align: center;
-margin-left: 272px;
 color: #05041c;
 }
 
@@ -103,12 +99,4 @@ color: #05041c;
   background-color: rgba(5, 55, 17, 0.2);
   color: #05041c;
   font-size: 22px;
-}
-
-.maps-footer{
-  margin-left: 220px;
-}
-
-.logo-footer{
-  margin-left: 100px;
 }
