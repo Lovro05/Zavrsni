@@ -14,7 +14,7 @@
   .container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 60px;
+    grid-gap: 4rem;
   }
 
   .img-container{
@@ -22,8 +22,8 @@
   }
 
   .img-container img {
-    width: 297.9px;
-    height: 200px;
+    width: 18.4rem;
+    height: 14rem;
     object-fit: cover;
     object-position: center;
 }
