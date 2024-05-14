@@ -24,6 +24,8 @@
   .img-container img {
     width: 18.4rem;
     height: 14rem;
+    width: 20em;
+    height: 15rem;
     object-fit: cover;
     object-position: center;
 }
