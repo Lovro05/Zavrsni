@@ -1,4 +1,9 @@
 /*Galerija*/
+.galerija.active {
+  color: rgb(255, 255, 255);
+  background-color: rgb(149, 79, 175);
+}
+
 *{
     box-sizing: border-box;
   }
@@ -22,10 +27,8 @@
   }
 
   .img-container img {
-    width: 18.4rem;
-    height: 14rem;
-    width: 20em;
-    height: 15rem;
+    width: 18.45rem;
+    height: 20rem;
     object-fit: cover;
     object-position: center;
 }

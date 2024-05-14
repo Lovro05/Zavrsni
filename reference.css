@@ -1,4 +1,9 @@
 /*Reference*/
+.reference.active {
+  color: rgb(255, 255, 255);
+  background-color: rgb(149, 79, 175);
+}
+
 .reference{
     color: black;
     text-decoration: underline;

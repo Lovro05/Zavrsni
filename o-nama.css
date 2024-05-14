@@ -1,4 +1,9 @@
 /*O nama sekcija*/
+.o-nama.active {
+  color: rgb(255, 255, 255);
+  background-color: rgb(149, 79, 175);
+}
+
 .o-nama{
   color: black;
   text-align: center;
