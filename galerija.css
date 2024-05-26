@@ -618,15 +618,12 @@
   .container {
     align-items: center;
     text-align: center;
-    padding-left: 4.2rem;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
-    margin: 10px;
-
-}
+  }
 
   .container img{
-    width: 19.55rem;
+    width: 20rem;
   }
 
   .img-container:hover{
