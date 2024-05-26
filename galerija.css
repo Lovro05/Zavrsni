@@ -592,6 +592,10 @@
     }
 
 
+
+   
+
+
     @media (max-width: 600px)
   {
     .header {
@@ -665,4 +669,77 @@
     padding: 0.1rem;
     margin-bottom: 0.5rem;
   }
-  }
+  } @media (max-width: 600px)
+    {
+      .header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .inpowerservicelogo {
+        height: auto;
+        width: 100%;
+        max-width: 260px;
+        margin-right: 0.5rem;
+    }
+    
+    .header-center {
+        margin-top: 10px;
+    }
+    
+    .header-center h3 {
+      font-size: 2.5rem;
+    }
+    
+    .container {
+      align-items: center;
+      text-align: center;
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+    }
+  
+    .container img{
+      width: 22rem;
+    }
+  
+    .img-container:hover{
+      transform: none;
+    }
+  
+    
+    .footer .d-flex {
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .footer .logo-footer {
+      width: 100%;
+      max-width: 260px;
+      height: auto;
+      margin-right: 2.5rem;
+    }
+    
+    .footer iframe {
+      width: 100%;
+      height: auto;
+    }
+    
+    .footer .footer-center {
+      text-align: center;
+    }
+    
+    .footer .footer-center h3 {
+      font-size: 1.5rem;
+    }
+    
+    .footer .footer-center p {
+      font-size: 1rem;
+    }
+    
+    .footer_ime_tvrtke {
+      font-size: 1rem;
+      padding: 0.1rem;
+      margin-bottom: 0.5rem;
+    }
+    }
